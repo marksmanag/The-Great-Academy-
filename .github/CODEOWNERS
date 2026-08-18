@@ -1,0 +1,28 @@
+# CODEOWNERS for The Great Academy
+
+# Default: Current maintainers
+* @marksmanag
+
+# Constitution and core principles
+constitution/ @marksmanag
+CONSTITUTION.md @marksmanag
+
+# Academy principles and methodology
+academy/ @marksmanag
+
+# Architecture and system design
+architecture/ @marksmanag
+
+# Research and evidence
+research/ @marksmanag
+
+# Project governance
+projects/ @marksmanag
+
+# Repository governance and documentation
+CONTRIBUTING.md @marksmanag
+CODE_OF_CONDUCT.md @marksmanag
+SECURITY.md @marksmanag
+ROADMAP.md @marksmanag
+README.md @marksmanag
+.github/ @marksmanag
